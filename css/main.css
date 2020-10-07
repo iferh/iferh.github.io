@@ -1,5 +1,4 @@
 body {
-    font-family:'Source Sans Pro','serif';
     margin: 60px auto;
     width: 70%;
 }
@@ -29,6 +28,7 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font-family:'Source Sans Pro','serif';
     font-size: 1em;
     line-height: 1em;
     color: #333;
